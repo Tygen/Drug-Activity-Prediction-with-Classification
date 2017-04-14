@@ -1,4 +1,4 @@
-# Drug Activity Prediction, 
+# Drug Activity Prediction
 
 	Approach 1: Random Forest algorithm
 F1: 0.6875
